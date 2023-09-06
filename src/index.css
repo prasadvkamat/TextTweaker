@@ -1,0 +1,38 @@
+/* #textouter{
+    margin: -25px;
+    width: 104%;
+} */
+#textouter{
+    height: 100vh;
+    margin: 0px 0px;
+}
+/* Add this CSS to your existing styles or a separate CSS file */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    padding-top: 2px;
+    padding-bottom: 10px;
+  }
+  
+  footer p {
+    font-size: 8px;
+    margin-bottom: 0;
+  }
+  
+  footer a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+
+#outerbox{
+  height: 100vh;
+  width: 100%;
+  background-color: bisque;
+}
+  
